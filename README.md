@@ -15,11 +15,11 @@ The NGCL Cobblemon Modpack is all about providing a diverse range of mod changes
 - DISCLAIMER: Please remove the Grappling Hook Mod from your mods folder before joining the server.
 
 ### Key Features
-Cobblemon: Experience a world filled with Pokémon-like creatures.
-Automation Mods: Streamline your tasks with advanced automation tools and systems.
-Nuclear Power: Tap into the immense energy of nuclear technology to power your creations.
-Interdimensional Travel: Venture into new dimensions and uncover their mysteries.
-Magic Mods: Discover and wield powerful magical abilities.
+- Cobblemon: Experience a world filled with Pokémon-like creatures.
+- Automation Mods: Streamline your tasks with advanced automation tools and systems.
+- Nuclear Power: Tap into the immense energy of nuclear technology to power your creations.
+- Interdimensional Travel: Venture into new dimensions and uncover their mysteries.
+- Magic Mods: Discover and wield powerful magical abilities.
 
 ## Download
 To install the latest version (6.0) of the NGCL Cobblemon Modpack, follow the link below:
