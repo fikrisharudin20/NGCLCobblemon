@@ -7,12 +7,11 @@ Welcome to the official repository for the NGCL Cobblemon Modpack! This modpack 
 ## About the Modpack
 The NGCL Cobblemon Modpack is all about providing a diverse range of mod changes to keep your gameplay fresh and exciting. From automating processes to harnessing nuclear power, exploring interdimensional realms, and mastering magical arts, this modpack has something for everyone. (Specifically for the NGCL community, for the BOYSS!!)
 
-## Version 6.0 Updates
-## THE MAGIC UPDATE (SHADOW WIZARD MONEY GANG) UPDATE
-- Magic Mods: Added a plethora of new magic mods to enhance your magical prowess.
-- New Patches: Implemented various patches to improve gameplay and fix bugs.
-- New Content: Introduced new items, features, and gameplay mechanics.
-- DISCLAIMER: Please remove the Grappling Hook Mod from your mods folder before joining the server.
+## Version 6.1 Patch
+## Fixes, addons and dependencies for V 6.0
+- Added energy gens from meka
+- Added few new things to explore
+
 
 ### Key Features
 - Cobblemon: Experience a world filled with Pokémon-like creatures.
